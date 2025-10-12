@@ -5,5 +5,11 @@ public class Lab_005 {
         int a = 10;
         int b = 20;
         System.out.println(a+b);
+
+        int c = 20;
+        int d = 50;
+
+        System.out.println("Maultiplication is "+c*d);
+        System.out.println("Division is "+d/c);
     }
 }
